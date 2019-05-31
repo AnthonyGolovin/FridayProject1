@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6px;
+  padding-bottom: 3px;
+  margin-bottom:50px;
+  color: inherit;
+  background-color: #969aaa;
+  width: 1000px;
+}
+.jumbotron2 {
+  padding-top: 6px;
+  padding-bottom: 3px;
+  margin-bottom:50px;
+  color: inherit;
+  background-color: #969aaa;
+  width: 1000px;
+  float: right;
+}
+body {
+  background: url(https://wallpaperplay.com/walls/full/5/a/f/230233.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
