@@ -79,3 +79,7 @@ text-decoration: none;
   border: 5px solid black;
   margin-bottom: 6px;
 }
+.box1 {
+  border: 20px solid #52545b;;
+  margin: 20px;
+}
