@@ -30,9 +30,21 @@
   border-top-right-radius: 3px;
   background-color: #969aaa;
   width: 600px;
+  margin-bottom:50px;
+}
+.centerHobbies  {
+  margin-top: 5px;
+  margin-left: 22px;
+  margin-right: 10px;
+  width: 20%;
+  border: 5px solid black;
+  margin-bottom: 6px;
 }
 body {
   background: url(https://wallpapertag.com/wallpaper/full/5/3/d/307920-free-download-4k-gaming-wallpaper-3840x2160-for-computer.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+img {
+  float: left;
 }
