@@ -30,3 +30,7 @@
   background-color: #ccd1e2;
   border: 2px solid #52545b;
 }
+li {
+  font-size: 25px;
+  text-decoration: underline;
+}
